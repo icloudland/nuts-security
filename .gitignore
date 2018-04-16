@@ -1,0 +1,38 @@
+
+
+DmsAdmin/*
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.springBeans
+.mvn/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+dump.rdb
+
+# temp ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
